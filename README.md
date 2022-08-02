@@ -17,3 +17,5 @@ Features include:
 - My own icons / drawings in the app
 
 [Video Demonstration](https://youtu.be/fPUg-1XcmTk) of the app
+
+Attribute <a href="https://www.flaticon.com/free-icons/question-mark" title="question mark icons">Question mark icons created by Freepik - Flaticon</a>
